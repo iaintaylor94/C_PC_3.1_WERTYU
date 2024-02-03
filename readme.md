@@ -1,7 +1,7 @@
 # Programming Challenges
 ## Problem 3.1: WERTYU [^1]
 ### Problem description
-A common typing error is to press the key one space adjacent to the intended one. This program corrects a message that has been typed offset to the right. 
+A common typing error is to press the key one space adjacent to the intended one. This program corrects a message that has been typed offset to the right. Spaces are preserved in the output.
 
 ### Example 
 >**Input**                      
